@@ -1,11 +1,11 @@
-<h1 align="left">Hi, I'm Manavi Sharma  👋</h1>
+<h1 align="left">Hi, I'm Manavi Sharma👋</h1>
 
-<h3 align="left">I'm a frontend developer and DSA enthusiast</h3>
+<h3 align="left">I'm a frontend developer and DSA enthusiast🚀</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavi-24" alt="manavi-24" /></a> </p>
 <!-- <img align="right" alt="Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3Z3Zubm5ic2U3MTFhZXpwZnR6cWh5b2o1ZWlydmtpMW91YjI4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" style="width: 100px; height: auto; border-radius:20%">-->
-🌱 I’m currently learning Full Stack Web Development
+🌱 I’m currently learning Full Stack Web Development👩🏻‍💻
 <img align="right" alt="Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3Z3Zubm5ic2U3MTFhZXpwZnR6cWh5b2o1ZWlydmtpMW91YjI4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" style="width: 400px; height: auto; border-radius:20%">
 
 <h3 align="left">Connect with me:</h3>
