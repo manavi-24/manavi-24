@@ -7,7 +7,8 @@
 <!-- <img align="right" alt="Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3Z3Zubm5ic2U3MTFhZXpwZnR6cWh5b2o1ZWlydmtpMW91YjI4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" style="width: 100px; height: auto; border-radius:20%">-->
 👩🏻‍💻 Curiosity never stops. I'm always exploring ideas that blend tech with creativity ✨
 
-<img align="right"  alt="Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3Z3Zubm5ic2U3MTFhZXpwZnR6cWh5b2o1ZWlydmtpMW91YjI4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" style="width: 400px; height: auto; border-radius:3000px">
+<img align="right" alt="Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3Z3Zubm5ic2U3MTFhZXpwZnR6cWh5b2o1ZWlydmtpMW91YjI4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" style="width: 400px; height: auto; border-radius: 3000px; margin-left: 20px;" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +27,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manavi-24&show_icons=true&locale=en&layout=compact" alt="manavi-24" /></p>
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavi-24&show_icons=true&locale=en" alt="manavi-24" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavi-24&show_icons=true&locale=en" alt="manavi-24" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manavi-24&" alt="manavi-24" /></p>
