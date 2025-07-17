@@ -1,11 +1,11 @@
-<h1 align="left">Hi, I'm Manavi Sharma👋</h1>
+<h1 align="left">Hi, I'm Manavi Sharma</h1>
 
 <h3 align="left">I'm a full-stack developer.🚀</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavi-24&title=-Stars,-Reviews&margin-w=10" alt="manavi-24" /></a> </p>
 <!-- <img align="right" alt="Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3Z3Zubm5ic2U3MTFhZXpwZnR6cWh5b2o1ZWlydmtpMW91YjI4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" style="width: 100px; height: auto; border-radius:20%">-->
-👩🏻‍💻 SheFi Scholar-Learning Web3! 
+👩🏻‍💻 I'm currently learning Web3! 
 
 <img align="right" alt="Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3Z3Zubm5ic2U3MTFhZXpwZnR6cWh5b2o1ZWlydmtpMW91YjI4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" style="width: 400px; height: auto; border-radius: 3000px; margin-left: 20px;" />
 
